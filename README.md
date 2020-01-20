@@ -1,2 +1,2 @@
 # ChangeTopic
-subscriber a topic and adcertise a topic
+subscriber a topic and advertise a topic
