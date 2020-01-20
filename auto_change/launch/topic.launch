@@ -1,0 +1,5 @@
+<launch>
+    <node name="auto_change_node" pkg="auto_change" type="auto_change_node" output="screen" >
+    </node>
+
+</launch>
